@@ -8,10 +8,10 @@ Explore and preprocess the dataset. This involves tasks like handling missing va
 # Feature Selection:
 Analyze the dataset to identify the most relevant features that contribute to wine quality. You can use techniques like correlation analysis or feature importance from tree-based models to select the important features.
 
-#Model Selection:
+# Model Selection:
 Choose an appropriate machine learning algorithm for wine quality prediction. Some popular algorithms for regression tasks like this include linear regression, decision trees, random forests, and support vector regression. You can also experiment with ensemble methods or gradient boosting algorithms.
 
-#Model Training: 
+# Model Training: 
 Train the selected model using the training dataset. Adjust the hyperparameters of the model to optimize its performance. Consider using techniques like cross-validation to ensure the model's generalizability.
 
 # Model Evaluation: 
