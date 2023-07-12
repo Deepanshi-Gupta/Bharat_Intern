@@ -1,1 +1,2 @@
-House Price Prediction : Machine Learning model to predict house price using linear regression
+# House Price Prediction 
+Machine Learning model to predict house price using linear regression
